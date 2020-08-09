@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/PV-portfolio/static/css/main.22708197.chunk.css",
+    "main.js": "/PV-portfolio/static/js/main.7b3d687c.chunk.js",
+    "main.js.map": "/PV-portfolio/static/js/main.7b3d687c.chunk.js.map",
+    "runtime-main.js": "/PV-portfolio/static/js/runtime-main.cb34ec46.js",
+    "runtime-main.js.map": "/PV-portfolio/static/js/runtime-main.cb34ec46.js.map",
+    "static/css/2.e4346227.chunk.css": "/PV-portfolio/static/css/2.e4346227.chunk.css",
+    "static/js/2.5a5e01ce.chunk.js": "/PV-portfolio/static/js/2.5a5e01ce.chunk.js",
+    "static/js/2.5a5e01ce.chunk.js.map": "/PV-portfolio/static/js/2.5a5e01ce.chunk.js.map",
+    "index.html": "/PV-portfolio/index.html",
+    "precache-manifest.967a4d61e60fa51bd1bc0bc948029728.js": "/PV-portfolio/precache-manifest.967a4d61e60fa51bd1bc0bc948029728.js",
+    "service-worker.js": "/PV-portfolio/service-worker.js",
+    "static/css/2.e4346227.chunk.css.map": "/PV-portfolio/static/css/2.e4346227.chunk.css.map",
+    "static/css/main.22708197.chunk.css.map": "/PV-portfolio/static/css/main.22708197.chunk.css.map",
+    "static/js/2.5a5e01ce.chunk.js.LICENSE.txt": "/PV-portfolio/static/js/2.5a5e01ce.chunk.js.LICENSE.txt",
+    "static/media/Brisanje.JPG": "/PV-portfolio/static/media/Brisanje.29cd7602.JPG",
+    "static/media/Izmena.JPG": "/PV-portfolio/static/media/Izmena.cdad2bf4.JPG",
+    "static/media/JSp.JPG": "/PV-portfolio/static/media/JSp.c1e49a65.JPG",
+    "static/media/Lesshosting.png": "/PV-portfolio/static/media/Lesshosting.c3644353.png",
+    "static/media/Lessindex.png": "/PV-portfolio/static/media/Lessindex.9ad07e79.png",
+    "static/media/Lesskasa.png": "/PV-portfolio/static/media/Lesskasa.d7d06c10.png",
+    "static/media/Lesskontakt.png": "/PV-portfolio/static/media/Lesskontakt.cc03da27.png",
+    "static/media/Lessp.JPG": "/PV-portfolio/static/media/Lessp.b44eaa89.JPG",
+    "static/media/Lessservis.png": "/PV-portfolio/static/media/Lessservis.6c3049f1.png",
+    "static/media/Logout.JPG": "/PV-portfolio/static/media/Logout.c381ffce.JPG",
+    "static/media/Pretraga.JPG": "/PV-portfolio/static/media/Pretraga.cc90d4ec.JPG",
+    "static/media/Registracija.JPG": "/PV-portfolio/static/media/Registracija.5b4562ee.JPG",
+    "static/media/Unos.JPG": "/PV-portfolio/static/media/Unos.dbc9ac1e.JPG",
+    "static/media/avatar.png": "/PV-portfolio/static/media/avatar.0c001bd6.png",
+    "static/media/bs.JPG": "/PV-portfolio/static/media/bs.3e78e453.JPG",
+    "static/media/less.jpg": "/PV-portfolio/static/media/less.7260bfbe.jpg",
+    "static/media/php.JPG": "/PV-portfolio/static/media/php.04f3a5bc.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb34ec46.js",
+    "static/css/2.e4346227.chunk.css",
+    "static/js/2.5a5e01ce.chunk.js",
+    "static/css/main.22708197.chunk.css",
+    "static/js/main.7b3d687c.chunk.js"
+  ]
+}
