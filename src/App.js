@@ -1,26 +1,39 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { Component } from 'react';
+import { Link, HashRouter } from 'react-router-dom'; 
+import { Layout, Header, Navigation, Content, Footer, FooterLinkList } from 'react-mdl';
 import './App.css';
+import Main from './components/main.js';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends Component {
+    render() {
+    return ( 
+       <HashRouter>{/*koristi URL hash, i nije limitiran za pojedine pregledače i nije ograničen na single page aplikacije */}
+           <div style={{height: '300px', position: 'relative'}}>
+   <Layout fixedHeader>
+       <Header className="header-color"title={<span><span style={{ color: '#ddd' }}>  </span><strong>P.V PORTFOLIO</strong></span>}>
+           <Navigation>
+               <Link to="/">Home</Link> 
+               <Link to="/projectphp">PHP Project</Link> 
+               <Link to="projectless/">Less Project</Link>   
+           </Navigation>
+           </Header>
+       <Content> 
+           <Main/>
+        <Footer size="mini">
+       <FooterLinkList>
+       <Navigation>
+               <Link to="/">Home</Link>  
+               <Link to="/projectphp">PHP Project</Link> 
+               <Link to="projectless/">Less Project</Link>   
+           </Navigation>
+       </FooterLinkList>
+       </Footer>   
+       </Content>
+   </Layout>
+     </div>
+       </HashRouter>
+      );   
+  } 
 }
-
 export default App;
+
