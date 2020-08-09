@@ -27,7 +27,7 @@ class ProjectPHP extends Component {
                 <div><img src={PHP2} className="img4" alt="Welcome apge"/></div>
                     <div className="rightp">
                         <h3>Welcome page</h3><br/>
-                         <p>This is welcome page after employs login, where they can logout.</p>
+                         <p>This is welcome page after employees login, where they can logout if needed to switch to other account.</p>
                      </div>
             </div>
             <div className="containerpr">
