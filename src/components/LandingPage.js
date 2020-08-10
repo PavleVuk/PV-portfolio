@@ -16,8 +16,8 @@ class Landing extends Component {
       />
       <div className="banner-text">
       <h1> IT student / Tech enthusiast</h1>
-      <p> I am a student of Informational Technology, currently working on getting Master degree in IT. 
-           Technology, computers and smartphones are my hobbies since I was a kid. </p>
+      <p>Hello, I am Pavle, a student of Master Informational Technology who loves technology, computers, smartphones and everything about it. I love programming, both front-end and back-end. I'm mostly front-end oriented currently.</p>
+     
       <Social/>
       </div>
       <About/>

@@ -11,7 +11,7 @@ import { Link } from 'react-router-dom';
         <div className="projects-grid">
         <h1>My recent projects:</h1> 
         <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-          <CardTitle className="card" style={{background: "url("+ JS+") top / cover" , filter: "blur(0.4px)"}} >HTML/CSS/JS Project </CardTitle>
+          <CardTitle className="card" style={{background: "url("+ JS+") top / cover" }} >HTML/CSS/JS Project </CardTitle>
           <CardText>
           This was the project of my university exam. It is a website about smartphones. It also has a "recommend me a phone" option I made using Javascript.
             You choose what phone specifications are important to you, and it gives a phone recommendation. 
