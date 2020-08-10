@@ -1,19 +1,24 @@
 {
   "files": {
     "main.css": "/PV-portfolio/static/css/main.88d6ec8b.chunk.css",
-    "main.js": "/PV-portfolio/static/js/main.5f1b05ff.chunk.js",
-    "main.js.map": "/PV-portfolio/static/js/main.5f1b05ff.chunk.js.map",
+    "main.js": "/PV-portfolio/static/js/main.36ee65df.chunk.js",
+    "main.js.map": "/PV-portfolio/static/js/main.36ee65df.chunk.js.map",
     "runtime-main.js": "/PV-portfolio/static/js/runtime-main.cb34ec46.js",
     "runtime-main.js.map": "/PV-portfolio/static/js/runtime-main.cb34ec46.js.map",
     "static/css/2.e4346227.chunk.css": "/PV-portfolio/static/css/2.e4346227.chunk.css",
-    "static/js/2.5a5e01ce.chunk.js": "/PV-portfolio/static/js/2.5a5e01ce.chunk.js",
-    "static/js/2.5a5e01ce.chunk.js.map": "/PV-portfolio/static/js/2.5a5e01ce.chunk.js.map",
+    "static/js/2.896df06a.chunk.js": "/PV-portfolio/static/js/2.896df06a.chunk.js",
+    "static/js/2.896df06a.chunk.js.map": "/PV-portfolio/static/js/2.896df06a.chunk.js.map",
     "index.html": "/PV-portfolio/index.html",
-    "precache-manifest.7b4fbb98d9ec45b6ceac6defafad7298.js": "/PV-portfolio/precache-manifest.7b4fbb98d9ec45b6ceac6defafad7298.js",
+    "precache-manifest.8e9bdc21449955671bf3259bb4ee715a.js": "/PV-portfolio/precache-manifest.8e9bdc21449955671bf3259bb4ee715a.js",
     "service-worker.js": "/PV-portfolio/service-worker.js",
     "static/css/2.e4346227.chunk.css.map": "/PV-portfolio/static/css/2.e4346227.chunk.css.map",
     "static/css/main.88d6ec8b.chunk.css.map": "/PV-portfolio/static/css/main.88d6ec8b.chunk.css.map",
-    "static/js/2.5a5e01ce.chunk.js.LICENSE.txt": "/PV-portfolio/static/js/2.5a5e01ce.chunk.js.LICENSE.txt",
+    "static/js/2.896df06a.chunk.js.LICENSE.txt": "/PV-portfolio/static/js/2.896df06a.chunk.js.LICENSE.txt",
+    "static/media/Anaslovna.png": "/PV-portfolio/static/media/Anaslovna.c8553557.png",
+    "static/media/Apixel.png": "/PV-portfolio/static/media/Apixel.76df78c6.png",
+    "static/media/Apreporuka.png": "/PV-portfolio/static/media/Apreporuka.0f298786.png",
+    "static/media/Aregistracija.png": "/PV-portfolio/static/media/Aregistracija.7f046dce.png",
+    "static/media/Auredjaji.png": "/PV-portfolio/static/media/Auredjaji.ecbd7ae8.png",
     "static/media/Brisanje.JPG": "/PV-portfolio/static/media/Brisanje.29cd7602.JPG",
     "static/media/Izmena.JPG": "/PV-portfolio/static/media/Izmena.cdad2bf4.JPG",
     "static/media/JSp.JPG": "/PV-portfolio/static/media/JSp.c1e49a65.JPG",
@@ -35,8 +40,8 @@
   "entrypoints": [
     "static/js/runtime-main.cb34ec46.js",
     "static/css/2.e4346227.chunk.css",
-    "static/js/2.5a5e01ce.chunk.js",
+    "static/js/2.896df06a.chunk.js",
     "static/css/main.88d6ec8b.chunk.css",
-    "static/js/main.5f1b05ff.chunk.js"
+    "static/js/main.36ee65df.chunk.js"
   ]
 }

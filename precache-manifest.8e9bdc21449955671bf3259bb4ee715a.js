@@ -1,31 +1,51 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6ded7638c44e338014790304504db176",
+    "revision": "1732ceb7a5a443ff029019a5546f8fd7",
     "url": "/PV-portfolio/index.html"
   },
   {
-    "revision": "f62442977be59fc2781b",
+    "revision": "8ad954ed2ac2fcef9ded",
     "url": "/PV-portfolio/static/css/2.e4346227.chunk.css"
   },
   {
-    "revision": "28ec2435aaa816aed686",
+    "revision": "41a9bc0bcbcd578cf2a6",
     "url": "/PV-portfolio/static/css/main.88d6ec8b.chunk.css"
   },
   {
-    "revision": "f62442977be59fc2781b",
-    "url": "/PV-portfolio/static/js/2.5a5e01ce.chunk.js"
+    "revision": "8ad954ed2ac2fcef9ded",
+    "url": "/PV-portfolio/static/js/2.896df06a.chunk.js"
   },
   {
     "revision": "e1d2b252d73a4c2bc4d6802ca4ba1aa0",
-    "url": "/PV-portfolio/static/js/2.5a5e01ce.chunk.js.LICENSE.txt"
+    "url": "/PV-portfolio/static/js/2.896df06a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "28ec2435aaa816aed686",
-    "url": "/PV-portfolio/static/js/main.5f1b05ff.chunk.js"
+    "revision": "41a9bc0bcbcd578cf2a6",
+    "url": "/PV-portfolio/static/js/main.36ee65df.chunk.js"
   },
   {
     "revision": "f1051bc9cbe69c4432d8",
     "url": "/PV-portfolio/static/js/runtime-main.cb34ec46.js"
+  },
+  {
+    "revision": "c8553557979009a1362dbef14ea7ab7e",
+    "url": "/PV-portfolio/static/media/Anaslovna.c8553557.png"
+  },
+  {
+    "revision": "76df78c68c0aab40a83e43ead4804ecd",
+    "url": "/PV-portfolio/static/media/Apixel.76df78c6.png"
+  },
+  {
+    "revision": "0f2987865a8223f0e183efdd8e71978d",
+    "url": "/PV-portfolio/static/media/Apreporuka.0f298786.png"
+  },
+  {
+    "revision": "7f046dcede63f95a813c34b028753b08",
+    "url": "/PV-portfolio/static/media/Aregistracija.7f046dce.png"
+  },
+  {
+    "revision": "ecbd7ae84102d65742ef1e7b62df5940",
+    "url": "/PV-portfolio/static/media/Auredjaji.ecbd7ae8.png"
   },
   {
     "revision": "29cd7602f5ffaa65e0a87cf0be468315",
