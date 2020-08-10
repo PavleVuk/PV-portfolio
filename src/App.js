@@ -10,11 +10,12 @@ class App extends Component {
        <HashRouter>{/*koristi URL hash, i nije limitiran za pojedine pregledače i nije ograničen na single page aplikacije */}
            <div style={{height: '300px', position: 'relative'}}>
    <Layout fixedHeader>
-       <Header className="header-color"title={<span><span style={{ color: '#ddd' }}>  </span><strong>P.V PORTFOLIO</strong></span>}>
+       <Header className="header-color"title={<span><span style={{ color: '#ddd' }}>  </span><strong>Pavle V Portfolio</strong></span>}>
            <Navigation>
                <Link to="/">Home</Link> 
                <Link to="/projectphp">PHP Project</Link> 
-               <Link to="projectless/">Less Project</Link>   
+               <Link to="/projectless/">Less Project</Link>   
+               <Link to="/projectAndroid/">Android project</Link>  
            </Navigation>
            </Header>
        <Content> 
@@ -24,7 +25,8 @@ class App extends Component {
        <Navigation>
                <Link to="/">Home</Link>  
                <Link to="/projectphp">PHP Project</Link> 
-               <Link to="projectless/">Less Project</Link>   
+               <Link to="/projectless/">Less Project</Link>   
+               <Link to="/projectAndroid/">Android project</Link>  
            </Navigation>
        </FooterLinkList>
        </Footer>   

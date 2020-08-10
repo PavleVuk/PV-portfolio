@@ -11,7 +11,7 @@ import { Link } from 'react-router-dom';
         <div className="projects-grid">
         <h1>My recent projects:</h1> 
         <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-          <CardTitle className="card" style={{background: "url("+ JS+") top / cover" }} >HTML/CSS/JS Project </CardTitle>
+          <CardTitle className="card" style={{background: "url("+ JS+") top / cover" }} >Android blog</CardTitle>
           <CardText>
           This was the project of my university exam. It is a website about smartphones. It also has a "recommend me a phone" option I made using Javascript.
             You choose what phone specifications are important to you, and it gives a phone recommendation. 
@@ -19,13 +19,14 @@ import { Link } from 'react-router-dom';
           </CardText>
           <CardActions border>
           <Button href="https://bitbucket.org/pavlev/android-blog-js/src/master/" color="primary">BitBucket</Button>
+          <Link to="/projectAndroid"><Button color="primary ">Read more</Button></Link>
           </CardActions>
           <CardMenu style={{color: '#fff'}}>
             <IconButton name="share" />
           </CardMenu>
         </Card>
         <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-          <CardTitle className="card" style={{background: "url("+ Lessp +") top / cover"}} >Less Project</CardTitle>
+          <CardTitle className="card" style={{background: "url("+ Lessp +") top / cover"}} >Internship website project</CardTitle>
           <CardText>
          This is an website I created while I was on internship in local IT company. This is a website i created inspired by their current website using less preprocessers language. 
          It is just a simple website, created in minimalistic design. It is also responsive for all devices, 
@@ -40,7 +41,7 @@ import { Link } from 'react-router-dom';
           </CardMenu>
         </Card>
         <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-          <CardTitle className="card" style={{background: "url("+ BS+") top / cover"}} >Bootstrap project</CardTitle>
+          <CardTitle className="card" style={{background: "url("+ BS+") top / cover"}} >My university website</CardTitle>
           <CardText>
           This was the project of my university exam. I used Bootstrap to create replica web site of university. 
           </CardText>
@@ -52,7 +53,7 @@ import { Link } from 'react-router-dom';
           </CardMenu>
         </Card>
         <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-          <CardTitle className="card" style={{background: "url("+ PHP+") top / cover"}} >PHP project</CardTitle>
+          <CardTitle className="card" style={{background: "url("+ PHP+") top / cover"}} >Mobile repair shop database manager</CardTitle>
           <CardText>
             This was also the project of my university exam.
             I used native PHP with some HTML/CSS and MySQL database for this project. It's like a database manager for mobile phone shop. 

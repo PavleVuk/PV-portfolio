@@ -1,27 +1,27 @@
 import React, { Component } from 'react';
-import Less1 from '../pics/Lessindex.png';
-import Less2 from '../pics/Lessservis.png';
-import Less3 from '../pics/Lesskasa.png';
-import Less4 from '../pics/Lesshosting.png';
-import Less5 from '../pics/Lesskontakt.png';
-class ProjectLess extends Component {
+import img1 from '../pics/Anaslovna.png';
+import img2 from '../pics/Auredjaji.png';
+import img3 from '../pics/Apixel.png';
+import img4 from '../pics/Aregistracija.png';
+import img5 from '../pics/Apreporuka.png';
+class Projectimg extends Component {
     render(){
         return(
             <div className="project">
                 <h1 className="h1notop">Internship website project</h1>
                 <p>This is a simple project I made for university exam as intern in local IT company.
-                   It is a website inspired by current website of this IT company written using HTML/Less.
+                   It is a website inspired by current website of this IT company written using HTML/img.
                      </p>
                <div className="containerpr">
                     <div className="leftp">
                         <h3>Home page</h3><br/>
                             <p> </p>
                     </div> 
-                            <div><img src={Less1} className="img3" alt=""/></div>
+                            <div><img src={img1} className="img3" alt=""/></div>
                 </div>
             
             <div className="containerpl">
-                <div><img src={Less2} className="img4" alt=""/></div>
+                <div><img src={img2} className="img4" alt=""/></div>
                     <div className="rightp">
                         <h3>Service page</h3><br/>
                          <p></p>
@@ -32,11 +32,11 @@ class ProjectLess extends Component {
                         <h3>Cash register page</h3><br/>
                             <p>  </p>
                     </div> 
-                            <div><img src={Less3} className="img3" alt=""/></div>
+                            <div><img src={img3} className="img3" alt=""/></div>
                 </div>
 
                 <div className="containerpl">
-                <div><img src={Less4} className="img4" alt=""/></div>
+                <div><img src={img4} className="img4" alt=""/></div>
                     <div className="rightp">
                         <h3>Hosting page </h3> <br/>
                          <p> </p>
@@ -48,7 +48,7 @@ class ProjectLess extends Component {
                         <h3>Contact page</h3><br/>
                             <p>  </p>
                     </div> 
-                            <div><img src={Less5} className="img3" alt=""/></div>
+                            <div><img src={img5} className="img3" alt=""/></div>
                 </div>
             </div>
                
@@ -57,4 +57,4 @@ class ProjectLess extends Component {
         )
         } 
       }
-    export default ProjectLess;
+    export default Projectimg;

@@ -9,7 +9,7 @@ class ProjectPHP extends Component {
     render(){
         return(
             <div className="project">
-                <h1 className="h1notop">PHP Project</h1>
+                <h1 className="h1notop">Mobile repair shop database manager</h1>
                 <p>This was the simple project of my university exam  I created.
                     It is database of mobile phones clients of mobile repair shop brought for repair. For every mobile phone, there is some information attached to it, 
                     as clients name and ID, mail adress, manufacturer and model of the phone and some more additional informations.
