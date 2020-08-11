@@ -8,9 +8,8 @@ class Projectimg extends Component {
     render(){
         return(
             <div className="project">
-                <h1 className="h1notop">Internship website project</h1>
-                <p>This is a simple project I made for university exam as intern in local IT company.
-                   It is a website inspired by current website of this IT company written using HTML/img.
+                <h1 className="h1notop"> "Android blog" university exam website</h1>
+                <p>This is website of my university exam I created. It features parallax, as main way of displaying content.It has few simple pages, most of them have parallax. It also features registration and login form, and "recommend me a phone" form. Besides that, I used cookies for saving registration form entries and automatically display them in login form after sucessfull registration.
                      </p>
                <div className="containerpr">
                     <div className="leftp">
@@ -23,13 +22,13 @@ class Projectimg extends Component {
             <div className="containerpl">
                 <div><img src={img2} className="img4" alt=""/></div>
                     <div className="rightp">
-                        <h3>Service page</h3><br/>
+                        <h3>Devices page</h3><br/>
                          <p></p>
                      </div>
             </div>
             <div className="containerpr">
                     <div className="leftp">
-                        <h3>Cash register page</h3><br/>
+                        <h3>Pixel 2 page</h3><br/>
                             <p>  </p>
                     </div> 
                             <div><img src={img3} className="img3" alt=""/></div>
@@ -38,14 +37,14 @@ class Projectimg extends Component {
                 <div className="containerpl">
                 <div><img src={img4} className="img4" alt=""/></div>
                     <div className="rightp">
-                        <h3>Hosting page </h3> <br/>
+                        <h3>Registration form </h3> <br/>
                          <p> </p>
                      </div>
             </div>
 
             <div className="containerpr">
                     <div className="leftp">
-                        <h3>Contact page</h3><br/>
+                        <h3>"Recommend me a phone" page</h3><br/>
                             <p>  </p>
                     </div> 
                             <div><img src={img5} className="img3" alt=""/></div>
