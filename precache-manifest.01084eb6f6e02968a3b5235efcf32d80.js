@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1732ceb7a5a443ff029019a5546f8fd7",
+    "revision": "b5b128079afc471eedca23fb3017d2b1",
     "url": "/PV-portfolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PV-portfolio/static/css/2.e4346227.chunk.css"
   },
   {
-    "revision": "41a9bc0bcbcd578cf2a6",
+    "revision": "8ecfd592e1299582d933",
     "url": "/PV-portfolio/static/css/main.88d6ec8b.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PV-portfolio/static/js/2.896df06a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "41a9bc0bcbcd578cf2a6",
-    "url": "/PV-portfolio/static/js/main.36ee65df.chunk.js"
+    "revision": "8ecfd592e1299582d933",
+    "url": "/PV-portfolio/static/js/main.0b5b7557.chunk.js"
   },
   {
     "revision": "f1051bc9cbe69c4432d8",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PV-portfolio/static/media/Anaslovna.c8553557.png"
   },
   {
-    "revision": "76df78c68c0aab40a83e43ead4804ecd",
-    "url": "/PV-portfolio/static/media/Apixel.76df78c6.png"
+    "revision": "fb08094e1c0d838b934d2a236dc4a32f",
+    "url": "/PV-portfolio/static/media/Apixel.fb08094e.png"
   },
   {
     "revision": "0f2987865a8223f0e183efdd8e71978d",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PV-portfolio/static/media/Aregistracija.7f046dce.png"
   },
   {
-    "revision": "ecbd7ae84102d65742ef1e7b62df5940",
-    "url": "/PV-portfolio/static/media/Auredjaji.ecbd7ae8.png"
+    "revision": "621e29761be8d2add866e563e6491642",
+    "url": "/PV-portfolio/static/media/Auredjaji.621e2976.png"
   },
   {
     "revision": "29cd7602f5ffaa65e0a87cf0be468315",
