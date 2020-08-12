@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/PV-portfolio/static/css/main.88d6ec8b.chunk.css",
+    "main.css": "/PV-portfolio/static/css/main.46e33f89.chunk.css",
     "main.js": "/PV-portfolio/static/js/main.0b5b7557.chunk.js",
     "main.js.map": "/PV-portfolio/static/js/main.0b5b7557.chunk.js.map",
     "runtime-main.js": "/PV-portfolio/static/js/runtime-main.cb34ec46.js",
@@ -9,10 +9,10 @@
     "static/js/2.896df06a.chunk.js": "/PV-portfolio/static/js/2.896df06a.chunk.js",
     "static/js/2.896df06a.chunk.js.map": "/PV-portfolio/static/js/2.896df06a.chunk.js.map",
     "index.html": "/PV-portfolio/index.html",
-    "precache-manifest.01084eb6f6e02968a3b5235efcf32d80.js": "/PV-portfolio/precache-manifest.01084eb6f6e02968a3b5235efcf32d80.js",
+    "precache-manifest.e3c33d478ee3c159ecaa72ceba4cd7c0.js": "/PV-portfolio/precache-manifest.e3c33d478ee3c159ecaa72ceba4cd7c0.js",
     "service-worker.js": "/PV-portfolio/service-worker.js",
     "static/css/2.e4346227.chunk.css.map": "/PV-portfolio/static/css/2.e4346227.chunk.css.map",
-    "static/css/main.88d6ec8b.chunk.css.map": "/PV-portfolio/static/css/main.88d6ec8b.chunk.css.map",
+    "static/css/main.46e33f89.chunk.css.map": "/PV-portfolio/static/css/main.46e33f89.chunk.css.map",
     "static/js/2.896df06a.chunk.js.LICENSE.txt": "/PV-portfolio/static/js/2.896df06a.chunk.js.LICENSE.txt",
     "static/media/Anaslovna.png": "/PV-portfolio/static/media/Anaslovna.c8553557.png",
     "static/media/Apixel.png": "/PV-portfolio/static/media/Apixel.fb08094e.png",
@@ -33,6 +33,7 @@
     "static/media/Registracija.JPG": "/PV-portfolio/static/media/Registracija.5b4562ee.JPG",
     "static/media/Unos.JPG": "/PV-portfolio/static/media/Unos.dbc9ac1e.JPG",
     "static/media/avatar.png": "/PV-portfolio/static/media/avatar.0c001bd6.png",
+    "static/media/App.css": "/PV-portfolio/static/media/back.3bb2e1f3.svg",
     "static/media/bs.JPG": "/PV-portfolio/static/media/bs.3e78e453.JPG",
     "static/media/less.jpg": "/PV-portfolio/static/media/less.7260bfbe.jpg",
     "static/media/php.JPG": "/PV-portfolio/static/media/php.04f3a5bc.JPG"
@@ -41,7 +42,7 @@
     "static/js/runtime-main.cb34ec46.js",
     "static/css/2.e4346227.chunk.css",
     "static/js/2.896df06a.chunk.js",
-    "static/css/main.88d6ec8b.chunk.css",
+    "static/css/main.46e33f89.chunk.css",
     "static/js/main.0b5b7557.chunk.js"
   ]
 }
