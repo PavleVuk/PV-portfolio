@@ -1,12 +1,33 @@
 .header-color{
-  background: #34e89e;  
+  background: #FF0000;  /*
   background: -webkit-linear-gradient(to right, #0f3443, #34e89e);  
   background: linear-gradient(to right, #0f3443, #34e89e); 
+  background: #00416A;  
+  background: -webkit-linear-gradient(to right, #E4E5E6, #00416A);  
+  background: linear-gradient(to left, #E4E5E6, #00416A);  
+
+background-image: url(pics/back.svg);*/
+
+
+
+
+}
+body{
+  color:white!important;
 }
 .landing{
-  background: #34e89e;  
+  /*background: #403A3E;  
   background: -webkit-linear-gradient(to right, #0f3443, #34e89e);  
-  background: linear-gradient(to right, #0f3443, #34e89e); 
+  background: linear-gradient(to right, #0f3443, #34e89e); */
+  background: #00416A;  /* fallback for old browsers 
+  background: -webkit-linear-gradient(to right, #E4E5E6, #00416A);  /* Chrome 10-25, Safari 5.1-6 
+  background: linear-gradient(to left, #E4E5E6, #00416A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background-image: url(pics/back.svg);/* background by SVGBackgrounds.com */
+  background-position: center;
+  background-attachment: fixed;
+  background-size: 1920px;
+ 
+
   text-align: center;
   position: relative;
   top: 0;
@@ -21,13 +42,14 @@
   min-height: 40px!important;
   max-height: 40px!important;
   z-index: 0!important;
+  background: #181A1B!important;
 }
 .avatar{
   height:250px;
   padding: 5em;
 }
 .banner-text{
-  background-color: #58cf9d;
+  background: #00D7D7;
   opacity: .8;
   width: 60%;
   margin: auto;
@@ -106,7 +128,7 @@ h4{
   width:550px!important;
   height:350px !important;
   border-radius: 10px!important;
-  background:#58cf9d!important;
+  background:#00D7D7!important;
   margin-bottom: 38px!important;
 }
 .mdl-card__supporting-text{
@@ -131,9 +153,10 @@ h4{
   color:white!important;
 }
 .mdl-mini-footer{
-  background: #34e89e;  
+  background: #181A1B!important;  /*
   background: -webkit-linear-gradient(to right, #0f3443, #34e89e);
   background: linear-gradient(to right, #0f3443, #34e89e);
+  background-image: url(pics/back.svg);*/
   justify-content:center!important;
   padding-top:70px!important;
   
@@ -147,7 +170,7 @@ h4{
   font-size: 14px!important;
 }
 .languagesrow, .formdiv{
-  background-color: #58cf9d;
+  background-color: #00D7D7;
   color:black;
   font-size: 18px;
   width:60%;
@@ -211,7 +234,7 @@ textarea{
   height: 120px;
 }
 input[type=submit] {
-  background-color: #4CAF50;
+  background-color: #FFCC00;
   color: white;
   padding: 12px 20px;
   border: none;
@@ -223,8 +246,11 @@ input[type=submit]:hover {
   background-color: #45a049;
 }
 .project{
-  background: #34e89e;
-  background: linear-gradient(to right, #0f3443, #34e89e);
+  background-image: url(pics/back.svg);/* background by SVGBackgrounds.com */
+  background-position: center;
+  background-attachment: fixed;
+  background-size: 1920px;
+  /*background: linear-gradient(to right, #0f3443, #34e89e);*/
   text-align: center;
 }
 .project > p{
