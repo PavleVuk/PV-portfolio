@@ -58,7 +58,7 @@ class ProjectPHP extends Component {
                 <div><img src={PHP6} className="img4" alt=""/></div>
                     <div className="rightp">
                         <h3>Delete page</h3><br/>
-                         <p>This is where employs can delete all tables connected to either mobile phone or client.</p>
+                         <p>This is where employees can delete all tables connected to either mobile phone or client.</p>
                      </div>
             </div>
             </div>

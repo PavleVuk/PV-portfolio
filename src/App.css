@@ -20,7 +20,7 @@ body{
   background-image: url(pics/back.svg);/* background by SVGBackgrounds.com */
   background-position: center;
   background-attachment: fixed;
-  background-size: 1920px;
+  background-size: auto;
   text-align: center;
   position: relative;
   top: 0;
@@ -242,7 +242,7 @@ input[type=submit]:hover {
   background-image: url(pics/back.svg);/* background by SVGBackgrounds.com */
   background-position: center;
   background-attachment: fixed;
-  background-size: 1920px;
+  background-size: auto;
   /*background: linear-gradient(to right, #0f3443, #34e89e);*/
   text-align: center;
 }
@@ -321,6 +321,9 @@ h1{
 }
 .projects-grid{
   width:90%;
+}
+.project{
+background-size: 500px;
 }
 input[type="text"], input[type="email"], select, textarea{
   width:80%;
