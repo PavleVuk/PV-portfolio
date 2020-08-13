@@ -33,6 +33,8 @@ body{
   top: 0;
   left: 0;
   width: 100%;
+  padding-bottom: 140px !important;
+  padding-top: 25px !important;
 }
 .mdl-layout__inner-container{
   -webkit-overflow-scrolling: auto!important;
@@ -50,7 +52,7 @@ body{
 }
 .banner-text{
   background: #00D7D7;
-  opacity: .8;
+  opacity: .9;
   width: 60%;
   margin: auto;
   border-radius: 10px;
@@ -120,9 +122,9 @@ h4{
 }
 .projects-grid > h1{
   flex: 0 0 100%;
-  color:black;
+  color:white;
   padding-bottom: 30px;
-  opacity:.9;
+  /*opacity:.9;*/
 }
 .mdl-card{
   width:550px!important;
@@ -158,7 +160,8 @@ h4{
   background: linear-gradient(to right, #0f3443, #34e89e);
   background-image: url(pics/back.svg);*/
   justify-content:center!important;
-  padding-top:70px!important;
+  /*padding-top:70px!important;*/
+  padding: 0px 0px 32px 0px!important;
   
 }
 .mdl-navigation__link{
@@ -260,6 +263,7 @@ input[type=submit]:hover {
 }
 .h1notop{
   margin-top: 0;
+  padding-top: 100px;
 }
 .containerp{
   padding:10% 10% 0 10%;
