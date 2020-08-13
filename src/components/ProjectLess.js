@@ -4,6 +4,9 @@ import Less2 from '../pics/Lessservis.png';
 import Less3 from '../pics/Lesskasa.png';
 import Less4 from '../pics/Lesshosting.png';
 import Less5 from '../pics/Lesskontakt.png';
+import Less6 from '../pics/Lessregi.png';
+import Less7 from '../pics/Lesspopravka.png';
+import Less8 from '../pics/Lesskonf.png';
 class ProjectLess extends Component {
     render(){
         return(
@@ -50,10 +53,33 @@ class ProjectLess extends Component {
                     </div> 
                             <div><img src={Less5} className="img3" alt=""/></div>
                 </div>
-            </div>
+            
                
+               <div className="containerpl">
+                <div><img src={Less6} className="img4" alt=""/></div>
+                    <div className="rightp">
+                        <h3>Registration page </h3> <br/>
+                         <p>I created simple registration form for this website. </p>
+                     </div>
+            </div>
             
+            <div className="containerpr">
+                    <div className="leftp">
+                        <h3>Repair calculator</h3><br/>
+                            <p>For this calculator, I used JS to pass options in html option tags and to calculate prices of certain computer problems. Depending on service user chooses, price is automatically displayed.</p>
+                    </div> 
+                            <div><img src={Less7} className="img3" alt=""/></div>
+                </div>
             
+
+            <div className="containerpl">
+                <div><img src={Less8} className="img4" alt=""/></div>
+                    <div className="rightp">
+                        <h3>Configuration page </h3> <br/>
+                         <p>I also used JS to create objects for every html option tag and to display their prices in html p tags and to calculate price of all components in last input field.   </p>
+                     </div>
+            </div>
+            </div>
         )
         } 
       }
