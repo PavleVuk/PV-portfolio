@@ -13,7 +13,7 @@ class ProjectLess extends Component {
             <div className="project">
                 <h1 className="h1notop">Internship website project</h1>
                 <p>This is a simple project I made for university exam as intern in local IT company.
-                   It is a website inspired by current website of this IT company written using HTML/Less.
+                   It is a website inspired by current website of this IT company written using HTML/Less. This website is smartwatch responsive.
                      </p>
                <div className="containerpr">
                     <div className="leftp">
