@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/PV-portfolio/static/css/main.fcd66a09.chunk.css",
-    "main.js": "/PV-portfolio/static/js/main.0b5b7557.chunk.js",
-    "main.js.map": "/PV-portfolio/static/js/main.0b5b7557.chunk.js.map",
+    "main.js": "/PV-portfolio/static/js/main.6650db43.chunk.js",
+    "main.js.map": "/PV-portfolio/static/js/main.6650db43.chunk.js.map",
     "runtime-main.js": "/PV-portfolio/static/js/runtime-main.cb34ec46.js",
     "runtime-main.js.map": "/PV-portfolio/static/js/runtime-main.cb34ec46.js.map",
     "static/css/2.e4346227.chunk.css": "/PV-portfolio/static/css/2.e4346227.chunk.css",
-    "static/js/2.896df06a.chunk.js": "/PV-portfolio/static/js/2.896df06a.chunk.js",
-    "static/js/2.896df06a.chunk.js.map": "/PV-portfolio/static/js/2.896df06a.chunk.js.map",
+    "static/js/2.d41ed8e7.chunk.js": "/PV-portfolio/static/js/2.d41ed8e7.chunk.js",
+    "static/js/2.d41ed8e7.chunk.js.map": "/PV-portfolio/static/js/2.d41ed8e7.chunk.js.map",
     "index.html": "/PV-portfolio/index.html",
-    "precache-manifest.fdb36241657efb222db1835d9d49237c.js": "/PV-portfolio/precache-manifest.fdb36241657efb222db1835d9d49237c.js",
+    "precache-manifest.843cb72c4a04e501a863e433126fac6e.js": "/PV-portfolio/precache-manifest.843cb72c4a04e501a863e433126fac6e.js",
     "service-worker.js": "/PV-portfolio/service-worker.js",
     "static/css/2.e4346227.chunk.css.map": "/PV-portfolio/static/css/2.e4346227.chunk.css.map",
     "static/css/main.fcd66a09.chunk.css.map": "/PV-portfolio/static/css/main.fcd66a09.chunk.css.map",
-    "static/js/2.896df06a.chunk.js.LICENSE.txt": "/PV-portfolio/static/js/2.896df06a.chunk.js.LICENSE.txt",
+    "static/js/2.d41ed8e7.chunk.js.LICENSE.txt": "/PV-portfolio/static/js/2.d41ed8e7.chunk.js.LICENSE.txt",
     "static/media/Anaslovna.png": "/PV-portfolio/static/media/Anaslovna.c8553557.png",
     "static/media/Apixel.png": "/PV-portfolio/static/media/Apixel.fb08094e.png",
     "static/media/Apreporuka.png": "/PV-portfolio/static/media/Apreporuka.0f298786.png",
@@ -25,8 +25,11 @@
     "static/media/Lesshosting.png": "/PV-portfolio/static/media/Lesshosting.c3644353.png",
     "static/media/Lessindex.png": "/PV-portfolio/static/media/Lessindex.9ad07e79.png",
     "static/media/Lesskasa.png": "/PV-portfolio/static/media/Lesskasa.d7d06c10.png",
+    "static/media/Lesskonf.png": "/PV-portfolio/static/media/Lesskonf.b9d343cf.png",
     "static/media/Lesskontakt.png": "/PV-portfolio/static/media/Lesskontakt.cc03da27.png",
     "static/media/Lessp.JPG": "/PV-portfolio/static/media/Lessp.b44eaa89.JPG",
+    "static/media/Lesspopravka.png": "/PV-portfolio/static/media/Lesspopravka.615407a4.png",
+    "static/media/Lessregi.png": "/PV-portfolio/static/media/Lessregi.2a47e3e4.png",
     "static/media/Lessservis.png": "/PV-portfolio/static/media/Lessservis.6c3049f1.png",
     "static/media/Logout.JPG": "/PV-portfolio/static/media/Logout.c381ffce.JPG",
     "static/media/Pretraga.JPG": "/PV-portfolio/static/media/Pretraga.cc90d4ec.JPG",
@@ -41,8 +44,8 @@
   "entrypoints": [
     "static/js/runtime-main.cb34ec46.js",
     "static/css/2.e4346227.chunk.css",
-    "static/js/2.896df06a.chunk.js",
+    "static/js/2.d41ed8e7.chunk.js",
     "static/css/main.fcd66a09.chunk.css",
-    "static/js/main.0b5b7557.chunk.js"
+    "static/js/main.6650db43.chunk.js"
   ]
 }

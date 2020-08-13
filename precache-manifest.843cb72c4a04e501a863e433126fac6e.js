@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1aa89b69a761567efcb77dcd0cd25911",
+    "revision": "5f06bfc5da9ab99fd55110447f466416",
     "url": "/PV-portfolio/index.html"
   },
   {
-    "revision": "8ad954ed2ac2fcef9ded",
+    "revision": "dc20509aa0ca68bb19cc",
     "url": "/PV-portfolio/static/css/2.e4346227.chunk.css"
   },
   {
-    "revision": "87609b7c000f30f5bfe7",
+    "revision": "715102481cdc6a9fd205",
     "url": "/PV-portfolio/static/css/main.fcd66a09.chunk.css"
   },
   {
-    "revision": "8ad954ed2ac2fcef9ded",
-    "url": "/PV-portfolio/static/js/2.896df06a.chunk.js"
+    "revision": "dc20509aa0ca68bb19cc",
+    "url": "/PV-portfolio/static/js/2.d41ed8e7.chunk.js"
   },
   {
     "revision": "e1d2b252d73a4c2bc4d6802ca4ba1aa0",
-    "url": "/PV-portfolio/static/js/2.896df06a.chunk.js.LICENSE.txt"
+    "url": "/PV-portfolio/static/js/2.d41ed8e7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "87609b7c000f30f5bfe7",
-    "url": "/PV-portfolio/static/js/main.0b5b7557.chunk.js"
+    "revision": "715102481cdc6a9fd205",
+    "url": "/PV-portfolio/static/js/main.6650db43.chunk.js"
   },
   {
     "revision": "f1051bc9cbe69c4432d8",
@@ -72,12 +72,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PV-portfolio/static/media/Lesskasa.d7d06c10.png"
   },
   {
+    "revision": "b9d343cffffaa5240ac3658863d76f79",
+    "url": "/PV-portfolio/static/media/Lesskonf.b9d343cf.png"
+  },
+  {
     "revision": "cc03da27db5ff94249ca53fdaff9bb40",
     "url": "/PV-portfolio/static/media/Lesskontakt.cc03da27.png"
   },
   {
     "revision": "b44eaa894ea090e8ccf855ab231d8393",
     "url": "/PV-portfolio/static/media/Lessp.b44eaa89.JPG"
+  },
+  {
+    "revision": "615407a48fa27bddcaaf4efd5bff9d03",
+    "url": "/PV-portfolio/static/media/Lesspopravka.615407a4.png"
+  },
+  {
+    "revision": "2a47e3e4c9a43d9c46dfad345cdcb3da",
+    "url": "/PV-portfolio/static/media/Lessregi.2a47e3e4.png"
   },
   {
     "revision": "6c3049f1c49811be1056ee893a016032",
