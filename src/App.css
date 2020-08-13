@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+body{
+  font-family: 'Source Sans Pro', sans-serif !important;
+}
+p, h1, h2, h3, h4 {
+  font-family: 'Source Sans Pro', sans-serif !important;
+}
 .header-color{
   background: #FF0000;  /*
   background: -webkit-linear-gradient(to right, #0f3443, #34e89e);  
