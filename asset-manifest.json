@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/PV-portfolio/static/css/main.5ce9e05d.chunk.css",
-    "main.js": "/PV-portfolio/static/js/main.04ec5179.chunk.js",
-    "main.js.map": "/PV-portfolio/static/js/main.04ec5179.chunk.js.map",
+    "main.js": "/PV-portfolio/static/js/main.e583d2a3.chunk.js",
+    "main.js.map": "/PV-portfolio/static/js/main.e583d2a3.chunk.js.map",
     "runtime-main.js": "/PV-portfolio/static/js/runtime-main.cb34ec46.js",
     "runtime-main.js.map": "/PV-portfolio/static/js/runtime-main.cb34ec46.js.map",
     "static/css/2.e4346227.chunk.css": "/PV-portfolio/static/css/2.e4346227.chunk.css",
-    "static/js/2.17c719c9.chunk.js": "/PV-portfolio/static/js/2.17c719c9.chunk.js",
-    "static/js/2.17c719c9.chunk.js.map": "/PV-portfolio/static/js/2.17c719c9.chunk.js.map",
+    "static/js/2.6568bdb1.chunk.js": "/PV-portfolio/static/js/2.6568bdb1.chunk.js",
+    "static/js/2.6568bdb1.chunk.js.map": "/PV-portfolio/static/js/2.6568bdb1.chunk.js.map",
     "index.html": "/PV-portfolio/index.html",
-    "precache-manifest.ca80b6cae805a6533611900162906794.js": "/PV-portfolio/precache-manifest.ca80b6cae805a6533611900162906794.js",
+    "precache-manifest.b90c0c4ab1ea9629310906a1b9c96c37.js": "/PV-portfolio/precache-manifest.b90c0c4ab1ea9629310906a1b9c96c37.js",
     "service-worker.js": "/PV-portfolio/service-worker.js",
     "static/css/2.e4346227.chunk.css.map": "/PV-portfolio/static/css/2.e4346227.chunk.css.map",
     "static/css/main.5ce9e05d.chunk.css.map": "/PV-portfolio/static/css/main.5ce9e05d.chunk.css.map",
-    "static/js/2.17c719c9.chunk.js.LICENSE.txt": "/PV-portfolio/static/js/2.17c719c9.chunk.js.LICENSE.txt",
+    "static/js/2.6568bdb1.chunk.js.LICENSE.txt": "/PV-portfolio/static/js/2.6568bdb1.chunk.js.LICENSE.txt",
     "static/media/Anaslovna.png": "/PV-portfolio/static/media/Anaslovna.c8553557.png",
     "static/media/Apixel.png": "/PV-portfolio/static/media/Apixel.fb08094e.png",
     "static/media/Apreporuka.png": "/PV-portfolio/static/media/Apreporuka.0f298786.png",
@@ -40,15 +40,14 @@
     "static/media/Unos.JPG": "/PV-portfolio/static/media/Unos.dbc9ac1e.JPG",
     "static/media/avatar.png": "/PV-portfolio/static/media/avatar.0c001bd6.png",
     "static/media/App.css": "/PV-portfolio/static/media/back.3bb2e1f3.svg",
-    "static/media/bs.JPG": "/PV-portfolio/static/media/bs.3e78e453.JPG",
     "static/media/less.jpg": "/PV-portfolio/static/media/less.7260bfbe.jpg",
     "static/media/php.JPG": "/PV-portfolio/static/media/php.04f3a5bc.JPG"
   },
   "entrypoints": [
     "static/js/runtime-main.cb34ec46.js",
     "static/css/2.e4346227.chunk.css",
-    "static/js/2.17c719c9.chunk.js",
+    "static/js/2.6568bdb1.chunk.js",
     "static/css/main.5ce9e05d.chunk.css",
-    "static/js/main.04ec5179.chunk.js"
+    "static/js/main.e583d2a3.chunk.js"
   ]
 }
