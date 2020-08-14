@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import {  Button} from 'react-mdl';
 import Less1 from '../pics/Lessindex.png';
 import Less2 from '../pics/Lessservis.png';
 import Less3 from '../pics/Lesskasa.png';
@@ -15,6 +16,9 @@ class ProjectLess extends Component {
                 <p>This is a simple project I made for university exam as intern in local IT company.
                    It is a website inspired by current website of this IT company written using HTML/Less. This website is smartwatch responsive.
                      </p>
+                     <p>You can check the code here : 
+                         <Button href="https://github.com/PavleVuk/Less" color="primary" className="belodugme">GitHub</Button>
+                         <Button href="https://bitbucket.org/pavlev/less-sajt/src/master/" color="primary" className="belodugme">BitBucket</Button></p>
                <div className="containerpr">
                     <div className="leftp">
                         <h3>Home page</h3><br/>

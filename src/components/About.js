@@ -9,8 +9,8 @@ class About extends Component {
           <div className="container about">
           <div className=" languagesrow">
             <h3> More about me: </h3>
-            <p>As you may have seen already, I am still a student pursuing masters degree of Informational technology, I am at the end of first year, got one more year to go. 
-              I am mostly front-end oriented, but did few back-end projects too. </p>
+            <p>As you may have seen already, I am still a student pursuing masters degree of Informational technology, I am half way done. 
+              I am mostly front-end oriented, but I did few back-end projects too. </p>
             <h4>Languages I used so far:</h4>
           <div className="languages">
           <div className="lang">

@@ -16,6 +16,7 @@ class App extends Component {
                <Link to="/projectphp">PHP Project</Link> 
                <Link to="/projectless/">Less Project</Link>   
                <Link to="/projectAndroid/">Android project</Link>  
+               <Link to="/projectJava/">Java project</Link>  
            </Navigation>
            </Header>
        <Content> 
@@ -27,6 +28,7 @@ class App extends Component {
                <Link to="/projectphp">PHP Project</Link> 
                <Link to="/projectless/">Less Project</Link>   
                <Link to="/projectAndroid/">Android project</Link>  
+               <Link to="/projectJava/">Java project</Link>  
            </Navigation>
        </FooterLinkList>
        </Footer>   

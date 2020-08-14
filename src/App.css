@@ -283,12 +283,18 @@ input[type=submit]:hover {
   margin-right: 0;
   margin-left:100px;
 }
-.img3,.img4, .img5{
+.img3,.img4{
   width:1450px;
   margin-left:0;
   margin-right: 0;
   border-radius: 5px;
   box-shadow:20px 10px 40px 0px rgba(0,0,0,0.75)
+}
+.img5{
+  width:750px;
+}
+.belodugme{
+  color:white!important;
 }
 @media only screen and (max-width: 480px) {
 

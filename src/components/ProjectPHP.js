@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import {  Button} from 'react-mdl';
 import PHP1 from '../pics/Registracija.JPG';
 import PHP2 from '../pics/Logout.JPG';
 import PHP3 from '../pics/Unos.JPG';
@@ -15,6 +16,9 @@ class ProjectPHP extends Component {
                     as clients name and ID, mail adress, manufacturer and model of the phone and some more additional informations.
                     I used HTML/CSS, PHP with MySQL database for this project.
                      </p>
+                     <p>You can check the code here : 
+                         <Button href="https://github.com/PavleVuk/PHP-site" color="primary" className="belodugme">GitHub</Button>
+                         <Button href="https://bitbucket.org/pavlev/php2/src/master/" color="primary" className="belodugme">BitBucket</Button></p>
                <div className="containerpr">
                     <div className="leftp">
                         <h3>Admin registration page</h3><br/>

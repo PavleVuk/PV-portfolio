@@ -73,7 +73,7 @@ class Landing extends Component {
        <div className="container about">
        <div className=" languagesrow">
          <h3> More about me:</h3>
-         <p>As you may have seen already, I'm still a student pursuing masters degree of Informational technology, i'm at the end of first year, got one more year to go. 
+         <p>As you may have seen already, I'm still a student pursuing masters degree of Informational technology, half way done. 
            I'm mostly front-end oriented, but did few back-end projects too. </p>
          <h4>Languages I know:</h4>
        <div className="languages">
