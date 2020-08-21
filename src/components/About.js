@@ -8,10 +8,10 @@ class About extends Component {
          <center>
           <div className="container about">
           <div className=" languagesrow">
-            <h3> More about me: </h3>
+            <h2> More about me: </h2>
             <p>As you may have seen already, I am still a student pursuing masters degree of Informational technology, I am half way done. 
               I am mostly front-end oriented, but I did few back-end projects too. </p>
-            <h4>Languages I used so far:</h4>
+            <h3>Languages I used so far:</h3>
           <div className="languages">
           <div className="lang">
           <img src="https://img.icons8.com/color/48/000000/html-5.png"alt="html logo" height="44"/>HTML&nbsp; 
@@ -46,7 +46,7 @@ class About extends Component {
           <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java logo" height="44"/>Java&nbsp; 
           </div>
           </div>
-          <h4 >Dev tools I used:</h4>
+          <h3 >Dev tools I used:</h3>
           <div className="devtools">
           <div className="lang">
           <img src="https://img.icons8.com/color/48/000000/bitbucket.png"alt="BitBucket logo" height="44"/>BitBucket&nbsp; 
