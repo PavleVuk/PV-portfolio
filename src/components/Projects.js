@@ -3,7 +3,7 @@ import { Card, CardTitle, CardText, CardActions, Button, CardMenu, IconButton } 
 import JS from '../pics/JSp.JPG';
 import PHP from '../pics/php.JPG';
 import Java from '../pics/Jsve.JPG';
-import Lessp from '../pics/Lessp.JPG';
+import Lessp from '../pics/Lessprojekat.jpg';
 import { Link } from 'react-router-dom'; 
   class Projects extends Component {
   render(){
@@ -27,7 +27,7 @@ import { Link } from 'react-router-dom';
           </CardMenu>
         </Card>
         <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-          <CardTitle className="card" style={{background: "url("+ Lessp +") top / cover"}} >Internship website project</CardTitle>
+          <CardTitle className="card" style={{background: "url("+ Lessp +") center / cover"}} >Internship website project</CardTitle>
           <CardText>
          This is an website I created while I was on internship in local IT company. This is a website i created inspired by their current website using less preprocessers language. 
          It is just a simple website, created in minimalistic design. It is also responsive for all devices, 

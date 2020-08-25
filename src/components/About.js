@@ -44,12 +44,8 @@ class About extends Component {
           </div>
           <div className="lang">
           <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React logo" height="44"/>React&nbsp; 
-          </div>
-          
-          </div>
-          
-          
-          
+          </div>         
+          </div>               
           <h3 >Dev tools I used:</h3>
           <div className="devtools">
           <div className="lang">

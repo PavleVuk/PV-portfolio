@@ -53,7 +53,7 @@ body{
 .banner-text{
   background: #00D7D7;
   opacity: .9;
-  width: 60%;
+  width: 73.2%;
   margin: auto;
   border-radius: 10px;
   -webkit-box-shadow: 20px 10px 40px 0px rgba(0,0,0,0.75);
@@ -116,7 +116,7 @@ h4{
   display: flex;
   flex-wrap: wrap;  
   margin:auto;
-  width:62%;
+  width:80%;
   opacity:.9;
   padding-bottom: 30px;
 }
@@ -127,8 +127,8 @@ h4{
   /*opacity:.9;*/
 }
 .mdl-card{
-  width:1151px!important;
-  height:600px !important;
+  width:1400px!important;
+  height:900px !important;
   border-radius: 10px!important;
   background:#00D7D7!important;
   margin-bottom: 38px!important;
@@ -146,7 +146,7 @@ h4{
 }
 
 .card{
-  height:500px;
+  height:800px;
   color:#fff;
   text-shadow: 1px 1px black;
   
@@ -175,7 +175,7 @@ h4{
   background-color: #00D7D7;
   color:black;
   font-size: 18px;
-  width:60%;
+  width:73.2%;
   border-radius: 10px;
   -webkit-box-shadow: 20px 10px 40px 0px rgba(0,0,0,0.75);
   -moz-box-shadow: 20px 10px 40px 0px rgba(0,0,0,0.75);
@@ -215,9 +215,8 @@ a.github{
  opacity:.9;
  padding:5px;
 }
-.formdiv > h3{
-  
-}
+
+
 .formdiv > p{
   padding-top: 30px;
   font-size: 20px;
