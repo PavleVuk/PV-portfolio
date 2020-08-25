@@ -11,7 +11,7 @@ class About extends Component {
             <h2> More about me: </h2>
             <p>As you may have seen already, I am still a student pursuing masters degree of Informational technology, I am half way done. 
               I am mostly front-end oriented, but I did few back-end projects too. </p>
-            <h3>Languages I used so far:</h3>
+            <h3>Languages/Frameworks/Libraries I used so far:</h3>
           <div className="languages">
           <div className="lang">
           <img src="https://img.icons8.com/color/48/000000/html-5.png"alt="html logo" height="44"/>HTML&nbsp; 
@@ -23,12 +23,6 @@ class About extends Component {
           </div>
           <div className="lang">
           <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JS logo" height="44"/>Javascript&nbsp; 
-          </div>
-          <div className="lang">
-          <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap logo" height="44"/>Bootstrap&nbsp; 
-          </div>
-          <div className="lang">
-          <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React logo" height="44"/>React&nbsp; 
           </div>
           <div className="lang">
           <img src="https://img.icons8.com/dusk/64/000000/php-logo.png" alt="PHP logo" height="44"/>PHP&nbsp; 
@@ -45,7 +39,17 @@ class About extends Component {
           <div className="lang">
           <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java logo" height="44"/>Java&nbsp; 
           </div>
+          <div className="lang">
+          <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap logo" height="44"/>Bootstrap&nbsp; 
           </div>
+          <div className="lang">
+          <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React logo" height="44"/>React&nbsp; 
+          </div>
+          
+          </div>
+          
+          
+          
           <h3 >Dev tools I used:</h3>
           <div className="devtools">
           <div className="lang">
@@ -71,6 +75,7 @@ class About extends Component {
           </div>
           </center>
           </div>
+          
     )
   }
 }

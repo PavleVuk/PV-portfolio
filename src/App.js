@@ -3,14 +3,17 @@ import { Link, HashRouter } from 'react-router-dom';
 import { Layout, Header, Navigation, Content, Footer, FooterLinkList } from 'react-mdl';
 import './App.css';
 import Main from './components/main.js';
+import ScrollToTop from './components/ScrollToTop.js';
 
 class App extends Component {
     render() {
     return ( 
        <HashRouter>{/*koristi URL hash, i nije limitiran za pojedine pregledače i nije ograničen na single page aplikacije */}
+        <ScrollToTop/>
            <div style={{height: '300px', position: 'relative'}}>
    <Layout fixedHeader>
        <Header className="header-color"title={<span><span style={{ color: '#ddd' }}>  </span><strong>Pavle V Portfolio</strong></span>}>
+          
            <Navigation>
                <Link to="/">Home</Link> 
                <Link to="/projectphp">PHP Project</Link> 
@@ -34,7 +37,9 @@ class App extends Component {
        </Footer>   
        </Content>
    </Layout>
+   
      </div>
+    
        </HashRouter>
       );   
   } 
