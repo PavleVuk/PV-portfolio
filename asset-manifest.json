@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/PV-portfolio/static/css/main.38c14637.chunk.css",
-    "main.js": "/PV-portfolio/static/js/main.1303ea01.chunk.js",
-    "main.js.map": "/PV-portfolio/static/js/main.1303ea01.chunk.js.map",
+    "main.css": "/PV-portfolio/static/css/main.be752e46.chunk.css",
+    "main.js": "/PV-portfolio/static/js/main.a0fcbadc.chunk.js",
+    "main.js.map": "/PV-portfolio/static/js/main.a0fcbadc.chunk.js.map",
     "runtime-main.js": "/PV-portfolio/static/js/runtime-main.cb34ec46.js",
     "runtime-main.js.map": "/PV-portfolio/static/js/runtime-main.cb34ec46.js.map",
     "static/css/2.e4346227.chunk.css": "/PV-portfolio/static/css/2.e4346227.chunk.css",
-    "static/js/2.6568bdb1.chunk.js": "/PV-portfolio/static/js/2.6568bdb1.chunk.js",
-    "static/js/2.6568bdb1.chunk.js.map": "/PV-portfolio/static/js/2.6568bdb1.chunk.js.map",
+    "static/js/2.e628233c.chunk.js": "/PV-portfolio/static/js/2.e628233c.chunk.js",
+    "static/js/2.e628233c.chunk.js.map": "/PV-portfolio/static/js/2.e628233c.chunk.js.map",
     "index.html": "/PV-portfolio/index.html",
-    "precache-manifest.e9005fd7ed206dd535c4bb400c5c87fb.js": "/PV-portfolio/precache-manifest.e9005fd7ed206dd535c4bb400c5c87fb.js",
+    "precache-manifest.e9c76b16ef8e382f609f70f85b3137d5.js": "/PV-portfolio/precache-manifest.e9c76b16ef8e382f609f70f85b3137d5.js",
     "service-worker.js": "/PV-portfolio/service-worker.js",
     "static/css/2.e4346227.chunk.css.map": "/PV-portfolio/static/css/2.e4346227.chunk.css.map",
-    "static/css/main.38c14637.chunk.css.map": "/PV-portfolio/static/css/main.38c14637.chunk.css.map",
-    "static/js/2.6568bdb1.chunk.js.LICENSE.txt": "/PV-portfolio/static/js/2.6568bdb1.chunk.js.LICENSE.txt",
+    "static/css/main.be752e46.chunk.css.map": "/PV-portfolio/static/css/main.be752e46.chunk.css.map",
+    "static/js/2.e628233c.chunk.js.LICENSE.txt": "/PV-portfolio/static/js/2.e628233c.chunk.js.LICENSE.txt",
     "static/media/Anaslovna.png": "/PV-portfolio/static/media/Anaslovna.c8553557.png",
     "static/media/Apixel.png": "/PV-portfolio/static/media/Apixel.fb08094e.png",
     "static/media/Apreporuka.png": "/PV-portfolio/static/media/Apreporuka.0f298786.png",
@@ -46,8 +46,8 @@
   "entrypoints": [
     "static/js/runtime-main.cb34ec46.js",
     "static/css/2.e4346227.chunk.css",
-    "static/js/2.6568bdb1.chunk.js",
-    "static/css/main.38c14637.chunk.css",
-    "static/js/main.1303ea01.chunk.js"
+    "static/js/2.e628233c.chunk.js",
+    "static/css/main.be752e46.chunk.css",
+    "static/js/main.a0fcbadc.chunk.js"
   ]
 }
