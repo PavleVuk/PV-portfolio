@@ -1,79 +1,61 @@
-import React, { Component } from 'react';
-import Less from '../pics/less.jpg';
-
+import React, { Component } from "react";
+import Avatar from "../pics/avatar.png";
+import Social from "./Social";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import {
+  faLinkedin,
+  faBitbucket,
+  faGithub,
+} from "@fortawesome/free-brands-svg-icons";
+import { faEnvelope, faFileDownload } from "@fortawesome/free-solid-svg-icons";
 class About extends Component {
   render() {
-    return(
-      <div style={{width: '100%', margin: 'auto'}}>
-         <center>
-          <div className="container about">
-          <div className=" languagesrow">
-            <h2> More about me: </h2>
-            <p>As you may have seen already, I am still a student pursuing masters degree of Informational technology, I am half way done. 
-              I am mostly front-end oriented, but I did few back-end projects too. </p>
-            <h3>Languages/Frameworks/Libraries I used so far:</h3>
-          <div className="languages">
-          <div className="lang">
-          <img src="https://img.icons8.com/color/48/000000/html-5.png"alt="html logo" height="44"/>HTML&nbsp; 
+    return (
+      <div className="about">
+        <div className="aboutleft">
+          <h1> About me</h1>
+          <p>
+            Hello, I am Pavle, a student of Master Informational Technology who
+            loves technology, computers, smartphones and everything about it. I
+            love programming, both front-end and back-end. As a student, I am
+            trying to learn as much as I can and get some coding experience. I
+            love challenges and I am always ready for them!
+          </p>
+          <br />
+          <p>You can contact me or take a look at my work:</p>
+          <br />
+          <div className="aboutsocial">
+            <a href="https://github.com/PavleVuk" className="github social">
+              <FontAwesomeIcon icon={faGithub} size="2x" />
+            </a>
+            <a
+              href="https://bitbucket.org/pavlev/"
+              className="bitbucket social"
+            >
+              <FontAwesomeIcon icon={faBitbucket} size="2x" />
+            </a>
+            <a
+              href="https://www.linkedin.com/in/pavle-vukajlovic-532b54174/"
+              className="linkedin social"
+            >
+              <FontAwesomeIcon icon={faLinkedin} size="2x" />
+            </a>
+            <a href="mailto:pavlevuk7@gmail.com" className="mail social">
+              <FontAwesomeIcon icon={faEnvelope} size="2x" />
+            </a>
+            <a
+              href="https://drive.google.com/file/d/15guqRszGizFDP_YgEXbhgNbvjRtBHHsm/view?usp=sharing"
+              className="mail social"
+            >
+              <FontAwesomeIcon icon={faFileDownload} size="2x" />
+            </a>
           </div>
-          <div className="lang">
-          <img src="https://img.icons8.com/color/48/000000/css3.png"alt="CSS logo" height="44"/>CSS&nbsp; 
-          </div><div className="lang">
-          <img src={Less} alt="Less logo" height="44"/>Less&nbsp; 
-          </div>
-          <div className="lang">
-          <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JS logo" height="44"/>Javascript&nbsp; 
-          </div>
-          <div className="lang">
-          <img src="https://img.icons8.com/dusk/64/000000/php-logo.png" alt="PHP logo" height="44"/>PHP&nbsp; 
-          </div>
-          <div className="lang">
-          <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL logo" height="44"/>MySQL&nbsp; 
-          </div>
-          <div className="lang">
-          <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" alt="C# logo" height="44"/>C#&nbsp; 
-          </div>
-          <div className="lang">
-          <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++ logo" height="44"/>C++&nbsp; 
-          </div>
-          <div className="lang">
-          <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java logo" height="44"/>Java&nbsp; 
-          </div>
-          <div className="lang">
-          <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap logo" height="44"/>Bootstrap&nbsp; 
-          </div>
-          <div className="lang">
-          <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React logo" height="44"/>React&nbsp; 
-          </div>         
-          </div>               
-          <h3 >Dev tools I used:</h3>
-          <div className="devtools">
-          <div className="lang">
-          <img src="https://img.icons8.com/color/48/000000/bitbucket.png"alt="BitBucket logo" height="44"/>BitBucket&nbsp; 
-          </div>
-          <div className="lang">
-          <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="Github logo" height="44"/>Github&nbsp; 
-          </div>
-          <div className="lang">
-          <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git logo" height="44"/>Git&nbsp; 
-          </div>
-          <div className="lang">
-          <img src="https://img.icons8.com/color/48/000000/npm.png" alt="Npm logo" height="44"/>NPM&nbsp; 
-          </div>
-          <div className="lang">
-          <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"alt="VS Code logo" height="44"/>Visual Studio Code&nbsp; 
-          </div>
-          <div className="lang">
-          <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" alt="VS logo" height="44"/>Visual Studio &nbsp; 
-          </div>
-          </div>
-          </div>
-          </div>
-          </center>
-          </div>
-          
-    )
+        </div>
+        <div className="aboutright">
+          <img src={Avatar} alt="avatar" className="avatar" />
+        </div>
+      </div>
+    );
   }
 }
-
 export default About;
