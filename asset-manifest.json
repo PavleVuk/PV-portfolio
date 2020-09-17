@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/PV-portfolio/static/css/main.004f9782.chunk.css",
+    "main.css": "/PV-portfolio/static/css/main.b8daac46.chunk.css",
     "main.js": "/PV-portfolio/static/js/main.c2c79de5.chunk.js",
     "main.js.map": "/PV-portfolio/static/js/main.c2c79de5.chunk.js.map",
     "runtime-main.js": "/PV-portfolio/static/js/runtime-main.cb34ec46.js",
@@ -9,10 +9,10 @@
     "static/js/2.e12495ff.chunk.js": "/PV-portfolio/static/js/2.e12495ff.chunk.js",
     "static/js/2.e12495ff.chunk.js.map": "/PV-portfolio/static/js/2.e12495ff.chunk.js.map",
     "index.html": "/PV-portfolio/index.html",
-    "precache-manifest.cba102a22d33fd39ed41ff7092babec4.js": "/PV-portfolio/precache-manifest.cba102a22d33fd39ed41ff7092babec4.js",
+    "precache-manifest.a28d2e09d2844e4c6f1fd3e178f1a4cc.js": "/PV-portfolio/precache-manifest.a28d2e09d2844e4c6f1fd3e178f1a4cc.js",
     "service-worker.js": "/PV-portfolio/service-worker.js",
     "static/css/2.e4346227.chunk.css.map": "/PV-portfolio/static/css/2.e4346227.chunk.css.map",
-    "static/css/main.004f9782.chunk.css.map": "/PV-portfolio/static/css/main.004f9782.chunk.css.map",
+    "static/css/main.b8daac46.chunk.css.map": "/PV-portfolio/static/css/main.b8daac46.chunk.css.map",
     "static/js/2.e12495ff.chunk.js.LICENSE.txt": "/PV-portfolio/static/js/2.e12495ff.chunk.js.LICENSE.txt",
     "static/media/Anaslovna.png": "/PV-portfolio/static/media/Anaslovna.1e09421d.png",
     "static/media/Apixel.png": "/PV-portfolio/static/media/Apixel.f7128d60.png",
@@ -38,7 +38,6 @@
     "static/media/Registracija.JPG": "/PV-portfolio/static/media/Registracija.5b4562ee.JPG",
     "static/media/Unos.JPG": "/PV-portfolio/static/media/Unos.dbc9ac1e.JPG",
     "static/media/avatar.png": "/PV-portfolio/static/media/avatar.0c001bd6.png",
-    "static/media/App.css": "/PV-portfolio/static/media/back.3bb2e1f3.svg",
     "static/media/baza2.jpg": "/PV-portfolio/static/media/baza2.02f82db3.jpg",
     "static/media/blog.jpg": "/PV-portfolio/static/media/blog.c9bedbc5.jpg",
     "static/media/javar4.jpg": "/PV-portfolio/static/media/javar4.3c216a70.jpg",
@@ -48,7 +47,7 @@
     "static/js/runtime-main.cb34ec46.js",
     "static/css/2.e4346227.chunk.css",
     "static/js/2.e12495ff.chunk.js",
-    "static/css/main.004f9782.chunk.css",
+    "static/css/main.b8daac46.chunk.css",
     "static/js/main.c2c79de5.chunk.js"
   ]
 }
