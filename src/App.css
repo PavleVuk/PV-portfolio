@@ -309,12 +309,13 @@ input[type="submit"]:hover {
   background-color: #45a049;
 }
 .project {
-  background-image: url(pics/back.svg); /* background by SVGBackgrounds.com */
+  /*background-image: url(pics/back.svg); /* background by SVGBackgrounds.com */
   background-position: center;
   background-attachment: fixed;
   background-size: auto;
   /*background: linear-gradient(to right, #0f3443, #34e89e);*/
   text-align: center;
+  background-color: black;
 }
 .project > p {
   font-size: 20px;
@@ -335,10 +336,17 @@ input[type="submit"]:hover {
   padding: 3.5%;
   align-items: center;
 }
+.containerpl {
+  background-color: white;
+}
+
 .leftp,
 .rightp {
   text-align: justify;
   margin-right: 100px;
+}
+.rightp {
+  color: black;
 }
 .leftp > p,
 .rightp > p {
