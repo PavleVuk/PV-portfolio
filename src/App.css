@@ -387,7 +387,7 @@ input[type="submit"]:hover {
     background-size: 480px;
   }
   .banner-text {
-    padding: 250px 50px;
+    padding: 27g0px 50px;
   }
 
   h1 {
@@ -400,7 +400,7 @@ input[type="submit"]:hover {
     flex-direction: row;
     font-size: 8px;
     margin: auto;
-    margin-right: 130px;
+    margin-right: 300px;
   }
   a.social {
     padding-bottom: 10px;
@@ -438,7 +438,7 @@ input[type="submit"]:hover {
   .avatar {
     padding: 5px;
     margin: auto;
-    width: 400px;
+    width: 420px;
   }
   .containerpr,
   .containerpl {
