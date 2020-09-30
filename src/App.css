@@ -188,6 +188,9 @@ h4 {
   color: white;
   text-decoration: none;
 }
+.link > h4 {
+  margin-top: 450px;
+}
 .mdl-card__supporting-text {
   color: black !important;
   font-size: 1rem !important;
@@ -293,6 +296,7 @@ textarea {
   margin-top: 6px;
   margin-bottom: 16px;
   resize: vertical;
+  color: white;
 }
 textarea {
   height: 120px;
@@ -428,8 +432,12 @@ input[type="submit"]:hover {
     margin: 5px;
     text-align: center;
   }
+  .aboutsocial {
+    display: block;
+  }
   .avatar {
     padding: 5px;
+    margin: auto;
   }
   .containerpr,
   .containerpl {
