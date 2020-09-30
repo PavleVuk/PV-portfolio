@@ -41,7 +41,7 @@ class ProjectPHP extends Component {
             <h3>Admin registration page</h3>
             <br />
             <p>
-              This is the form for new employs to register their accounts so
+              This is the form for new employees to register their accounts so
               they can use this software.{" "}
             </p>
           </div>
@@ -91,8 +91,8 @@ class ProjectPHP extends Component {
             <br />
             <p>
               {" "}
-              This page allows employs to edit mobile phone information if it's
-              incorrect.
+              This page allows employees to edit mobile phone information if
+              it's incorrect.
             </p>
           </div>
         </div>
@@ -103,7 +103,7 @@ class ProjectPHP extends Component {
             <br />
             <p>
               {" "}
-              Employs can use this page to search for either clients or mobile
+              Employees can use this page to search for either clients or mobile
               phones.{" "}
             </p>
           </div>

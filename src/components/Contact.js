@@ -58,13 +58,14 @@ class Contact extends Component {
     return (
       <div className="formdiv">
         <center>
-          <h3> Contact me</h3>
+          <h1> Contact me</h1>
           <form className="form" onSubmit={this.handleFormSubmit}>
             {" "}
             {/* poziv funkcije kada se klikne na submitdugme  OVO JE VIŠAK*/}
             <label>
               {" "}
-              {/*Your name: */}<br />
+              {/*Your name: */}
+              <br />
               <input
                 type="text"
                 name="name"
@@ -76,7 +77,8 @@ class Contact extends Component {
             <br />
             <label>
               {" "}
-              {/*Your email: */}<br />
+              {/*Your email: */}
+              <br />
               <input
                 type="text"
                 name="email"

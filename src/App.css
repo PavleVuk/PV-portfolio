@@ -6,7 +6,9 @@ p,
 h1,
 h2,
 h3,
-h4 {
+h4,
+label,
+textarea {
   font-family: "Source Sans Pro", sans-serif !important;
 }
 .mdl-layout__header-row {
@@ -267,9 +269,8 @@ a.github {
 }
 .formdiv {
   margin: auto;
-  padding-bottom: 30px !important;
+  padding-bottom: 90px !important;
   height: 460px;
-  /*opacity:.9;*/
   padding: 5px;
 }
 .formdiv > p {
@@ -283,7 +284,7 @@ select,
 textarea {
   width: 40%;
   padding: 12px;
-  border: 2px solid black;
+  border: 0.5px solid white;
   background: none;
   border-top: none;
   border-right: none;
@@ -338,7 +339,6 @@ input[type="submit"]:hover {
 .containerpl {
   background-color: white;
 }
-
 .leftp,
 .rightp {
   text-align: justify;
@@ -382,30 +382,31 @@ input[type="submit"]:hover {
   .landing {
     background-size: 480px;
   }
-  .avatar {
-    padding: 25px;
+  .banner-text {
+    padding: 250px 50px;
   }
-  .banner-text h1 {
-    font-size: 38px;
-  }
+
   h1 {
     font-size: 38px !important;
   }
-  .banner-text {
-    width: 90%;
+  .line {
+    font-size: 24px;
   }
-  .about {
-    margin-top: 100px;
+  .Social-link {
+    flex-direction: row;
+    font-size: 8px;
+    margin: auto;
+    margin-right: 130px;
   }
-  .languagesrow,
-  .formdiv {
-    width: 90%;
+  a.social {
+    padding-bottom: 10px;
   }
+
   .projects-grid > h1 {
     font-size: 38px;
   }
   .projects-grid {
-    width: 90%;
+    width: 98%;
   }
   .project {
     background-size: 500px;
@@ -418,6 +419,17 @@ input[type="submit"]:hover {
   }
   .project > p {
     margin: auto;
+  }
+  .about {
+    display: block;
+    padding: 20px 0px !important;
+  }
+  .aboutleft {
+    margin: 5px;
+    text-align: center;
+  }
+  .avatar {
+    padding: 5px;
   }
   .containerpr,
   .containerpl {
