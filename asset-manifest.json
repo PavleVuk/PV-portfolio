@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/PV-portfolio/static/css/main.7676445e.chunk.css",
+    "main.css": "/PV-portfolio/static/css/main.611deadc.chunk.css",
     "main.js": "/PV-portfolio/static/js/main.5258b671.chunk.js",
     "main.js.map": "/PV-portfolio/static/js/main.5258b671.chunk.js.map",
     "runtime-main.js": "/PV-portfolio/static/js/runtime-main.cb34ec46.js",
@@ -9,10 +9,10 @@
     "static/js/2.e12495ff.chunk.js": "/PV-portfolio/static/js/2.e12495ff.chunk.js",
     "static/js/2.e12495ff.chunk.js.map": "/PV-portfolio/static/js/2.e12495ff.chunk.js.map",
     "index.html": "/PV-portfolio/index.html",
-    "precache-manifest.89ac4e5b2a7c295dcdf6e8f0268b0266.js": "/PV-portfolio/precache-manifest.89ac4e5b2a7c295dcdf6e8f0268b0266.js",
+    "precache-manifest.1b1bda4bf34e43e09a103bdd183075a8.js": "/PV-portfolio/precache-manifest.1b1bda4bf34e43e09a103bdd183075a8.js",
     "service-worker.js": "/PV-portfolio/service-worker.js",
     "static/css/2.e4346227.chunk.css.map": "/PV-portfolio/static/css/2.e4346227.chunk.css.map",
-    "static/css/main.7676445e.chunk.css.map": "/PV-portfolio/static/css/main.7676445e.chunk.css.map",
+    "static/css/main.611deadc.chunk.css.map": "/PV-portfolio/static/css/main.611deadc.chunk.css.map",
     "static/js/2.e12495ff.chunk.js.LICENSE.txt": "/PV-portfolio/static/js/2.e12495ff.chunk.js.LICENSE.txt",
     "static/media/Anaslovna.png": "/PV-portfolio/static/media/Anaslovna.1e09421d.png",
     "static/media/Apixel.png": "/PV-portfolio/static/media/Apixel.f7128d60.png",
@@ -47,7 +47,7 @@
     "static/js/runtime-main.cb34ec46.js",
     "static/css/2.e4346227.chunk.css",
     "static/js/2.e12495ff.chunk.js",
-    "static/css/main.7676445e.chunk.css",
+    "static/css/main.611deadc.chunk.css",
     "static/js/main.5258b671.chunk.js"
   ]
 }
