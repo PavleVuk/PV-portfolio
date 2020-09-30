@@ -438,6 +438,7 @@ input[type="submit"]:hover {
   .avatar {
     padding: 5px;
     margin: auto;
+    width: 400px;
   }
   .containerpr,
   .containerpl {

@@ -47,7 +47,7 @@ class App extends Component {
             <Content>
               <Main />
               <Footer size="mini">
-                <div className="aboutsocial footersocial">
+                <div className=" footersocial">
                   <a
                     href="https://github.com/PavleVuk"
                     className="github social"
@@ -85,7 +85,6 @@ class App extends Component {
                     <Link to="/projectJava/">Java project</Link>
                   </Navigation>
                 </FooterLinkList>
-               
               </Footer>
             </Content>
           </Layout>
